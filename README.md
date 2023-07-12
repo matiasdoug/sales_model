@@ -3,7 +3,7 @@
 This project provides a basic data modeling solution for sales management. It includes an SQL file containing the database schema and a visual representation of the data model.
 
 ## Data Model
-
+This model was created using DbSchema data modeling tools.
 ![Sales Data Model](/sales_model.png)
 
 The sales data model represents some key entities and relationships involved in managing sales processes. It includes tables for customers, products, orders, seller and inventory. The relationships between these entities are captured through primary and foreign key constraints.
